@@ -1,4 +1,4 @@
 # HTML_Java_Project
-Stars Wars party invite
+Stars Wars themed party set in the death star
 
 Attributer: Jordan Stauffer
